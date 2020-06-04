@@ -1,0 +1,3 @@
+StartingPoint.UnitTests.TestMovie
+StartingPoint.UnitTests.TestRental
+StartingPoint.UnitTests.TestCustomer
